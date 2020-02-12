@@ -1,2 +1,2 @@
 # video-maker
-Aula de Programação
+Projeto open source para fazer vídeos automatizados
